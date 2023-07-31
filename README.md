@@ -7,8 +7,8 @@ AIVLE_6차 미니 프로젝트 차량 번호판 모델
 ![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/a83cbb37-5e11-4732-9f65-508c32333e98)
 ![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/4ec695f1-332b-4d0c-b083-ea8e2c6de3b6)
 
-# YOLO
-YOLO를 이용해 번호판 학습
+# YOLOv5
+YOLOv5를 이용해 번호판 학습
 
 ![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/7135cca6-e744-482b-8076-7db11f907437)
 ![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/99b95cbb-8981-4b68-b740-7f1fb6869416)
