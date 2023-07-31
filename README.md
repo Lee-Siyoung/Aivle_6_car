@@ -16,7 +16,16 @@ YOLOv5를 이용해 번호판 학습
 
 학습 결과
 
+데이터 증강없이 YOLOv5 돌린 모델
+
+![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/917e4b49-8bfd-431c-a05a-efe3f930433e)
+
+- MAP : 0.95, mAP50-95: 0.563
+
+
+Pepper 노이즈 증강 후 YOLOv5 돌린 모델
 ![image](https://github.com/Lee-Siyoung/Aivle_6_car/assets/57993534/3eb8ac15-0b6e-48aa-802d-b5bcdfcff6d7)
 
-MAP : 0.988, mAP50-95: 0.7
+- MAP : 0.988, mAP50-95: 0.7
 
+Pepper 노이즈 증강 후 YOLOv5 돌린 모델의 성능이 더 좋은 것으로 판별
